@@ -48,4 +48,5 @@ Preprocessor Directives: #define - #include – inline directive Files: Streams 
 
 #The repository is a help to those seeking help in the understanding of the concepts
 
-
+# Disclaimer
+MIT Licensed
