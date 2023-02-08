@@ -1,6 +1,6 @@
 # C-Programming-Files
 The repository provides basic knwledge of C programming based on the learnings from the Course "Introduction to Problem Solving and Programming"
-Thaught by Dr. Sampath A Kumar in VIT BHOPAL UNIVERSITY at first semester. 
+Thaught by Dr. Sampath A Kumar and Dr. Abhishek Verma in VIT BHOPAL UNIVERSITY at first semester. 
 (Vellore Institute of Technology)
 
 # Overview 
